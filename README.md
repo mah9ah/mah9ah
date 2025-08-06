@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **AI-powered tools**, **React/Next.js apps**, and **open-source projects**.
 - 💬 Ask me about **Java**, **React**, **TypeScript**, **Firebase**, or **full-stack development**.
 - 📫 How to reach me: **sediq.ghani@gmail.com**
-- 📄 Know more about me: [My Resume](#)
+- 📄 Know more about me: [My Resume](./sediqullah Ghani resume 2025.pdf)
 
 ---
 
